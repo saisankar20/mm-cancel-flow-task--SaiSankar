@@ -2,8 +2,7 @@
 
 ## Overview
 
-Convert an existing Figma design into a fully-functional subscription-cancellation flow for Migrate Mate. This challenge tests your ability to implement pixel-perfect UI, handle complex business logic, and maintain security best practices.
-
+Convert an existing Figma design into a fully-functional subscription-cancellation flow for Migrate Mate. 
 ## Objective
 
 Implement the Figma-designed cancellation journey exactly on mobile + desktop, persist outcomes securely, and instrument the A/B downsell logic.
