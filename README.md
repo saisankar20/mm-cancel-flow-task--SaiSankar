@@ -229,22 +229,3 @@ Here are some screenshots of the implemented solution:
 
 ![Step 6](public/images/6.png)
 
-![Step 7](public/images/7.png)
-
-![Step 8](public/images/8.png)
-
-![Step 9](public/images/9.png)
-
-![Step 10](public/images/10.png)
-
-![Step 11](public/images/11.png)
-
-![Step 12](public/images/12.png)
-
-![Step 13](public/images/13.png)
-
-![Step 14](public/images/14.png)
-
-![Step 15](public/images/15.png)
-
-![Step 16](public/images/16.png)
