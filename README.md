@@ -219,13 +219,13 @@ Here are some screenshots of the implemented solution:
 
 ![Step 1](./public/Images/1.png)
 
-![Step 2](./public/images/2.png)
+![Step 2](./public/Images/2.png)
 
-![Step 3](./public/images/3.png)
+![Step 3](./public/Images/3.png)
 
-![Step 4](./public/images/4.png)
+![Step 4](./public/Images/4.png)
 
-![Step 5](./public/images/5.png)
+![Step 5](./public/Images/5.png)
 
-![Step 6](./public/images/6.png)
+![Step 6](./public/Images/6.png)
 
