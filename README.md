@@ -217,15 +217,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Here are some screenshots of the implemented solution:
 
-![Step 1](public/images/1.png)
+![Step 1](./public/Images/1.png)
 
-![Step 2](public/images/2.png)
+![Step 2](./public/images/2.png)
 
-![Step 3](public/images/3.png)
+![Step 3](./public/images/3.png)
 
-![Step 4](public/images/4.png)
+![Step 4](./public/images/4.png)
 
-![Step 5](public/images/5.png)
+![Step 5](./public/images/5.png)
 
-![Step 6](public/images/6.png)
+![Step 6](./public/images/6.png)
 
